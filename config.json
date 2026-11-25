@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/jwernerdiniz/swagger-ui-xss-poc/refs/heads/main/xss-fetch.yaml",
+    "url": "https://raw.githubusercontent.com/jwernerdiniz/swagger-ui-xss-poc/main/xss-fetch.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/jwernerdiniz/swagger-ui-xss-poc/refs/heads/main/xss-fetch.yaml",
+            "url": "https://raw.githubusercontent.com/jwernerdiniz/swagger-ui-xss-poc/main/xss-fetch.yaml",
             "name": "XSS payload"
         }
     ]
