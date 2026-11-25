@@ -1,5 +1,4 @@
 {
-    "swagger":"2.0",
     "url": "https://raw.githubusercontent.com/jwernerdiniz/swagger-ui-xss-poc/refs/heads/main/xss-fetch.yaml",
     "urls": [
         {
