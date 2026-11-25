@@ -1,0 +1,9 @@
+{
+    "url": "/xss-fetch.yaml",
+    "urls": [
+        {
+            "url": "/xss-fetch.yaml",
+            "name": "XSS payload"
+        }
+    ]
+}
